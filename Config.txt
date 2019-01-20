@@ -1,0 +1,5 @@
+Status (client/server) = server
+Target IP=127.0.0.1
+Delay time (seconds) = 5
+From = Habitat
+To = MCR1
